@@ -1,3 +1,23 @@
+1.list view ma kai nthi btavata
+2.hji hmne me technology ni category ma event naykhi toy map ma all catrgory ma j khali evet batave chhe
+3.google signup/login.
+4.admin event approve kari eke.biju kai nai bija na account ma login kare evu bdhu nai.
+5.creat team karo to pela team leader ne requeat jay approve karva mate.
+6.xyz event open kar etle e event ma participate Kareli team batave and team member ochha hoi o to suggest kare.(https://huddle-7f408.web.app/team,)
+7.join event thatu nthi te add kayri ema.
+8.join event krya pachhi event nu page open thay jema no.6....& jo solo participant allowed hoi to without team ppn participate karva de and koi ni pase team no hoi to find team nu option ka to ej event na page ma event suggest  kare and user na main page par team member ni jaruru  hoi e team batave
+9.forgot passwordc& user name.
+10.event add karya pachhi edit karvanu option.
+11.only hybrid 
+12.assume team size = 4 , girls requred =5 enter karu to error apva jovi ...
+13.prrizing structure---> prize pool structure
+14.place holder ma us no number batave chhe..create event ma.
+15.kai team kya kya event involve chhe e batave team na archivements,..
+
+
+
+
+
 # 🎉 Huddle - Comprehensive Event Management Platform
 
 A full-stack MERN application for creating, managing, and participating in events with advanced team collaboration features, role-based access control, and interactive maps.
